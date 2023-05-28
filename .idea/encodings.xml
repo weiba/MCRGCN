@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/results/each_result_gbm_mlp.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/results/each_result_mlp_gbm_mean.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/results/each_result_n_mean_gbm_mlp.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/results/each_survice_index_gbm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/results/each_survice_lable_gbm.txt" charset="GBK" />
+  </component>
+</project>
